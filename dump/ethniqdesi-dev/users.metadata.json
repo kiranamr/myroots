@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"ethniqdesi-dev.users"},{"v":2,"unique":true,"key":{"email":1},"name":"email_1","ns":"ethniqdesi-dev.users","background":true},{"v":2,"unique":true,"key":{"username":1},"name":"username_1","ns":"ethniqdesi-dev.users","background":true}],"uuid":"cc3b34cde04d4db092783bf732c1bd63"}
